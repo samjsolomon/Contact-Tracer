@@ -1,6 +1,6 @@
 # Contact-Tracer
 
-This is a collaborative class project from CMS270, Object-Oriented Design and Development 
+This is a collaborative class project for CMS270, Object-Oriented Design and Development 
 
 ## Contributors
 
