@@ -1,0 +1,33 @@
+32
+Johnny Appleseed 482934 4073337823 off-campus Oviedo
+Mickey Mouse 482935 5632329034 on-campus Ward Donald Duck
+Donald Duck 323109 4562395602 on-campus Ward Mickey Mouse
+Strawberry Shortcake 673908 4903899834 off-campus Sanford
+Ronald McDonald 577989 4078993248 off-campus Maitland
+Kim Kardashian 673028 98137800923 on-campus Sutton Lady Gaga
+Donald Trump 579304 5672089940 off-campus Altamonte
+Lady Gaga 334028 4092930094 on-campus Sutton Kim Kardashian
+George Washington 394824 3330492980 off-campus Apopka
+Grant Cornwell 990908 3048294493 off-campus Oviedo
+Marilyn Monroe 8300028 9493840299 on-campus Elizabeth Mother Teresa
+Bill Gates 949204 4082933384 off-campus Clermont
+Mother Teresa 4020499 4930294493 on-campus Elizabeth Mairlyn Monroe
+Elvis Presley 0422302 04824400398 off-campus Windermere
+Rosa Parks 0300023 0432039302 on-campus Strong Oprah Winfrey
+Oprah Winfrey 1119302 0283028408 on-campus Strongt Rosa Parks
+Walt Disney 30299923 9032828392 off-campus Geneva
+Angelina Jolie 8301830 4592119034 off-campus Christmas
+Henry Ford 8032048 9028484902 on-campus Ward Michael Jackson
+Michael Jackson 3194032 8048033993 on-campus Ward Henry Ford
+Steve Jobs 2992830 8094280984 on-campus Lakeside Babe Ruth
+Babe Ruth 379274 0028304939 on-campus Lakeside Steve Jobs
+Mao Zedong 4454942 4920930899 off-campus Maitland
+Tiger Woods 6728382 8042849210 on-campus Strong Marie Curie
+Anne Frank 1203940 3803184841 off-campus Elizabeth
+Marie Curie 0018201 4801042028 on-campus Strong Tiger Woods
+Tom Cruise 74028301 3901382020 on-campus Cross George Clooney
+Brad Pitt 3201920 3801839103 off-campus Deland
+George Clooney 8000392 8302804020 on-campus Cross Tom Cruise
+Usain Bolt 0001920 80931801003 off-campus Sanford
+Coco Chanel 7788291 9048202830 on-campus Holt Snow White
+Snow White 038028 4073332000 on-campus Holt Coco Chanel
